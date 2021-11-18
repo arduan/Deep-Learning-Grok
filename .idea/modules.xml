@@ -2,6 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$USER_HOME$/DataspellProjects/Deep-Learning-Grok/.idea/Deep-Learning-Grok.iml" filepath="$USER_HOME$/DataspellProjects/Deep-Learning-Grok/.idea/Deep-Learning-Grok.iml" />
       <module fileurl="file://$PROJECT_DIR$/../../../../../../../../My_Django projekt/Deep_Lerning_Grok/.idea/Deep_Lerning_Grok.iml" filepath="$PROJECT_DIR$/../../../../../../../../My_Django projekt/Deep_Lerning_Grok/.idea/Deep_Lerning_Grok.iml" />
     </modules>
   </component>
